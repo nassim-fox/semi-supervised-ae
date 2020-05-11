@@ -1,2 +1,4 @@
-# semi-supervised-ae
-semi supervised AE mnist
+# semi supervised ae
+
+A semi supervised convolutional autoencoder with a cnn classification for MNIST handwritten digits 
+
